@@ -1,6 +1,6 @@
-# German Data for the Invision Craft Sketch Plugin
+# German Data for the InVision Craft Sketch Plugin
 
-German Data Files for the Invision Craft Data Plugin.
+German Data Files for the InVision Craft Data Plugin.
 
 #### The repository contains the following files:
 * 5576 unique German Names (Male & female mixed, First & Surname)
@@ -9,6 +9,13 @@ German Data Files for the Invision Craft Data Plugin.
 * 80 unique German Female Firstnames
 * 67 unique German Male Firstnames
 * 286 unique German Surnames
+* 1000 unique German Phone Numbers (Landline)
+* 1000 unique German Mobile Numbers
+* 997 unique German Email Addresses
+* 990 unique German Street Addresses (incl. Housenumbers)
+* 866 unique German Zip Codes
+* 892 unique German Cities
+
 
 You can use this data in your mockups using the great Invision Craft Plugin for Sketch. See [https://www.invisionapp.com/craft#data](https://www.invisionapp.com/craft#data) for more information.
 
@@ -22,7 +29,7 @@ You can use this data in your mockups using the great Invision Craft Plugin for 
 
 ## Licence
 
-Copyright © 2016 Oliver Pitsch
+Copyright © 2016-2017 Oliver Pitsch
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (by-nc-sa/4.0)
 More information: [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)

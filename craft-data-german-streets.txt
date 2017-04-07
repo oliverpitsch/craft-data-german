@@ -1,0 +1,990 @@
+Alte Apotheke 83
+Heinrichstr. 177a
+Kirchstr. 76
+Innsbruckweg 143
+Telgenweg 62
+Mecklenbecker Str. 166
+Rückertstr. 23
+Telgenweg 160
+Von-Holte-Str. 172
+Hogenbergstr. 80
+Wolbecker Str. 51
+Marsweg 75
+Dorotheenstr. 26
+Gropiusstr. 60
+Steinfurter Str. 91a
+Birkenweg 142
+Wormser Str. 180
+Kleiner Griechenmarkt 53
+An den Mühlen 146
+Simon-Meister-Str. 94
+Sternstr. 31
+Steinkamp 23
+Am Wigbold 28
+Unter Kahlenhausen 48
+Starweg 20
+Eibenweg 10
+Dauvemühle 1
+Gottesweg 157
+Rüschhausweg 68
+Kurneystr. 46
+Münzstr. 66a
+Sporckweg 30
+Piusstr. 129
+Im Stemmen 25
+Angelstr. 159
+Am Oedingteich 156
+Äußere Kanalstr. 133
+Kanalstr. 121a
+Landoisstr. 197
+Hermann-Treff-Weg 53
+Max-Winkelmann-Str. 193
+Hacklenburg 83
+Carossastr. 119
+Nienkamp 99
+Agrippastr. 123a
+Sanddornweg 183
+Kerßenbrockstr. 170
+Bernhard-Poether-Str. 71
+Gottesweg 117
+An Lyskirchen 151a
+Im Haubenfeld 121
+Am Brook 106
+Am Burloh 118
+Hahnenstr. 199
+Ölbergstr. 31
+Möserweg 94
+Marsweg 164
+Angelmodder Weg 3
+Soetenkamp 47
+Herdingstr. 63
+Piusstr. 192a
+Jakobusstr. 176
+An Lyskirchen 16
+Dauvemühle 159
+Vorgebirgstr. 66
+Heroldstr. 31
+Telgenweg 185
+Johann-Krane-Weg 45
+Flaßkuhl 196
+Wiedehagen 156
+Meinertzstr. 104
+Arnheimweg 8
+An Lyskirchen 132
+Im Sonnentau 136
+Kreuzstr. 91
+Oberschlesier Str. 199
+Baumberger Str. 67
+Stettiner Str. 38
+Am Wigbold 90
+Nerzweg 123
+Im Stemmen 3
+Catharina-Müller-Str. 143
+Gremmendorfer Weg 186
+Overbergstr. 183
+Mecklenbecker Str. 51a
+Rincklakeweg 169
+Rennbahnstr. 158
+Templerweg 180
+Mariendorfer Str. 127
+Nieland 71a
+Zur Wiese 86
+Soester Str. 102
+Breul 3
+Flaßkuhl 66
+Schubertstr. 165a
+Gescherweg 75
+Dammstr. 157
+Zum Guten Hirten 124
+Kurze Str. 54
+Am Krausen Baum 35
+Johanniterstr. 76
+Kirchstr. 117
+Wörthstr. 41
+Schwalbenweg 39
+Landoisstr. 26
+Am Burloh 23
+Avendruper Str. 177
+Äußere Kanalstr. 102
+Flaßkuhl 9
+Memmertweg 14
+Holunderweg 140
+Rückertstr. 161
+Gustav-Tweer-Weg 18
+Magdalenenstr. 52a
+Zur Wiese 87
+Sporckweg 137
+Kappenberger Damm 147a
+Meinertzstr. 16
+Langestr. 74
+Möserweg 199
+Enschedeweg 176
+Werkstattstr. 166
+Gropiusstr. 76
+Templerweg 120
+Straßburger Weg 32a
+Marsweg 98
+Mondstr. 193
+Kerßenbrockstr. 23
+Hacklenburg 185
+Hillscheider Weg 40
+Papenbusch 180
+Berrischstr. 114
+Kreuzstr. 44
+Pankokstr. 149
+Rüschhausweg 198
+An den Mühlen 117
+Guntherstr. 147
+Langeworth 55
+Morthorststr. 38
+Enschedeweg 126
+Steinkamp 112
+An Lyskirchen 102
+Wollinstr. 52
+Dahlienweg 130
+Schwalbenweg 31
+Rüschhausweg 106
+Von-Holte-Str. 53
+Methweg 188
+Rohrkampstr. 192
+Gescherweg 137
+Papenbusch 6
+Kösliner Str. 98
+Schubertstr. 146
+Olpener Str. 177
+Carossastr. 180
+Christinastr. 170
+Holunderweg 188
+Fresnostr. 71
+Theodor-Heuss-Ring 13
+Münzstr. 141
+Rosenplatz 19
+Friedrichstr. 107
+Gleueler Str. 79
+Kröver Str. 159
+Böttcherstr. 41
+Pankokstr. 77
+Weseler Str. 17
+Sporckweg 193
+Altenhofer Weg 123
+Am Berler Kamp 58
+Morthorststr. 89a
+Olpener Str. 101a
+Flaßkuhl 94
+Hüfferstr. 173
+Im Draum 191
+Pankokstr. 84
+Norbertstr. 33
+Wiedehagen 194
+Norbertstr. 188
+Im Stemmen 180
+Sophienstr. 26
+Idenbrockplatz 147a
+Mecklenbecker Str. 164
+Bernhard-Poether-Str. 53
+Sentmaringer Weg 12
+Josef-Suwelack-Weg 177
+Dorotheenstr. 30
+Westenkamp 113
+Telgenweg 160a
+Sophienstr. 23
+Mindener Str. 151
+Kerßenbrockstr. 101
+Klinkkampweg 150
+Christinastr. 22
+Am Hörsterfriedhof 130
+Marientalstr. 31
+Teutonenstr. 43
+Agrippastr. 166
+Eulenbergstr. 26
+Rektoratsweg 66
+Hindenburgplatz 39
+Rennbahnstr. 33a
+Alte Apotheke 119
+Hirseweg 67
+Hülsebrockstr. 75
+Ostmarkstr. 28
+Wolbecker Str. 47
+Tondernstr. 176
+Am Filk 63
+Raesfeldstr. 120
+Hölkenbusch 85
+Dauvemühle 2
+Soetenkamp 71
+Breul 108
+Langeworth 127
+Birkenweg 190
+Am Nubbenberg 147
+An Lyskirchen 92
+Hindenburgplatz 122
+Am Pulverschuppen 190
+Enschedeweg 140a
+Am Brook 54
+Elsa-Brändström-Weg 68a
+Telgenweg 147
+Am Dornbusch 142
+Hirseweg 149
+Schiffahrter Damm 185
+Herdingstr. 48
+Am Wigbold 191
+Carossastr. 43
+Theodor-Heuss-Ring 127
+Piusallee 22
+Max-Winkelmann-Str. 99
+Kanalstr. 43
+Widdeshover Weg 168
+Hillscheider Weg 173
+Jakobusstr. 180
+Guntherstr. 166
+Telgenweg 106
+Gremmendorfer Weg 189
+Röttgensweg 127
+Meesenstiege 38
+Wollinstr. 25
+Heisstr. 40
+Horstmarer Landweg 179a
+An den Mühlen 5
+Nauheimer Str. 40
+An Lyskirchen 188
+Düesbergweg 144
+Am Nubbenberg 104
+Breul 19
+Hoove 77
+Kösliner Str. 190
+Meckmannweg 138
+Im Sonnentau 138
+Dorbaumstr. 132
+Augustastr. 35
+Eulenbergstr. 40
+Soester Str. 146a
+Oscar-Wilde-Str. 174
+Hofstr. 107
+Marientalstr. 72
+Schmeddingstr. 133
+Hoove 126
+Unter Kahlenhausen 44
+Simon-Meister-Str. 23
+Methweg 89
+Wormser Str. 195
+Gartenstr. 5
+Arnheimweg 175
+Meckmannweg 60
+Von-Holte-Str. 52
+Am Blütenhain 61
+Geiststr. 130
+Catharina-Müller-Str. 76
+Johanniterstr. 94
+Widdeshover Weg 105
+Janningsweg 22
+Hüfferstr. 120
+Am Pulverschuppen 188
+Kirchstr. 46
+Mindener Str. 128
+Mariendorfer Str. 85
+Johanniterstr. 8
+Soetenkamp 99
+An den Weiden 167
+Nerzweg 33a
+Memmertweg 95
+Ringelnatzstr. 179
+Sentmaringer Weg 147
+Am Wigbold 183
+Friedrichstr. 99
+Breslauer Str. 24
+Erpeler Str. 160
+Hillscheider Weg 156
+Widdeshover Weg 3
+Sophienstr. 21
+Merheimer Str. 186
+Dorbaumstr. 71
+Norbertstr. 182
+Jägerstr. A 54
+Meesenstiege 129
+Ostlandstr. 76
+Sternstr. 112
+Marientalstr. 141
+Landoisstr. 168
+Osthuesheide 87
+Hirseweg 34a
+Rüschhausweg 20
+Jakobusstr. 121
+Straßburger Weg 175
+Neißestr. 162
+Am Krausen Baum 69
+Piusstr. 71
+Im Stemmen 31
+Rinkerodeweg 16
+Schubertstr. 130
+Schubertstr. 21
+Dreizehnerstr. 29
+Johanniterstr. 164
+Guntherstr. 145
+Kappenberger Damm 46
+Innsbruckweg 193
+Friesenring 143
+Stolbergstr. 76
+Dreilinden 25
+Kriegerweg 44
+Langestr. 131a
+Arnheimweg 189
+Am Römerhof 197
+Zur Gräfte 70
+Bielefelder Str. 4
+Sternstr. 134
+Manfred-von-Richthofen-Str. 134
+Zülpicher Str. 109
+Im Stemmen 2
+Lassallestr. 4a
+Kochwiesenstr. 88
+Starweg 153
+Am Oedingteich 167
+Josef-Suwelack-Weg 63
+Hülsebrockstr. 85
+Mariendorfer Str. 194
+Enschedeweg 139
+Eibenweg 88
+Ostlandstr. 130
+Hölkenbusch 37
+Dodostr. 88
+Kappenberger Damm 22
+Rinscheweg 72
+Papenbusch 195
+Kleiner Griechenmarkt 107
+Am Berler Kamp 160
+Friedrichstr. 83
+Breslauer Str. 171
+Ringelnatzstr. 117
+Am Römerhof 185a
+Offenbergstr. 116
+Carossastr. 99
+Werkstattstr. 66a
+Morthorststr. 80a
+Im Stemmen 179
+Janningsweg 7
+Heroldstr. 46
+Am Blütenhain 139
+Kurneystr. 57
+Bielefelder Str. 128
+An Lyskirchen 119
+Sanddornweg 127
+Florentine-Eichler-Str. 57
+Hüfferstr. 152a
+Meckmannweg 56
+Im Sonnentau 46
+Norbertstr. 164
+Marsweg 20
+Neißestr. 179
+Soester Str. 92
+Kösliner Str. 152
+Beuelsweg 55
+Im Sonnentau 100
+Hölkenbusch 36
+Sentmaringer Weg 63
+Kreuzstr. 85a
+Hillscheider Weg 49
+Am Burloh 126
+Sophienstr. 108
+Bielefelder Str. 180
+Rennbahnstr. 75
+Kleiner Griechenmarkt 67
+Düesbergweg 49
+Gartenstr. 65
+Steinkamp 102
+Drachterstr. 71
+Gottesweg 86
+Am Nubbenberg 71
+Werseblick 103
+Stolbergstr. 200
+Breslauer Str. 25
+Franz-Peter-Kürten-Weg 200
+Am Ziegelofen 131
+Kreuzstr. 113
+Teutonenstr. 17
+An den Weiden 121
+Skagerrakstr. 104
+Flaßkuhl 36
+Wollinstr. 103
+Ostlandstr. 112
+Kriegerweg 88
+Templerweg 169
+Berrischstr. 51
+Enschedeweg 87
+Straßburger Weg 40
+Augustastr. 90
+Wolbecker Str. 113
+Stettiner Str. 44
+An den Weiden 154
+Hölkenbusch 58
+Weißenburgstr. 33
+Mindener Str. 22
+Oberschlesier Str. 176
+Piusstr. 155
+Gottesweg 174
+An den Mühlen 77
+Dorotheenstr. 60
+Franz-Peter-Kürten-Weg 132
+Meesenstiege 195
+Am Ziegelofen 163
+Marktstr. 55
+Rinscheweg 129
+Teutonenstr. 23
+Am Grauen Stein 37
+Schubertstr. 5
+Weserstr. 53
+Heroldstr. 43
+Marktstr. 198a
+Zur Wiese 1
+Weserstr. 71
+Mariendorfer Str. 195
+Münzstr. 58
+Norbertstr. 117
+Rinscheweg 3
+Agrippastr. 126
+Josef-Suwelack-Weg 59
+Avendruper Str. 185
+Gustav-Tweer-Weg 41
+Rincklakeweg 80
+Dodostr. 152
+Gremmendorfer Weg 104
+Dauvemühle 169
+Memmertweg 65
+Schmittingheide 156
+Hoove 84
+Ostmarkstr. 109
+Uhuweg 150
+Am Oedingteich 154
+Westenkamp 46
+Steinkamp 26
+Herdingstr. 67
+Mondstr. 72
+Am Römerhof 187
+Dachsleite 76
+Kurneystr. 124
+Marktstr. 41
+Kriegerweg 64a
+Grevener Str. 20
+Düsseldorfer Str. 49
+Deutz-Kalker Str. 165a
+Carossastr. 98
+Kurneystr. 75
+Ulmenweg 174
+Mecklenbecker Str. 199
+Drachterstr. 178
+Immelmannstr. 93
+Dingbängerweg 75
+Telemannstr. 132
+Papenbusch 140
+Breslauer Str. 52
+Buldernweg 116
+Zur Gräfte 127
+Kochwiesenstr. 75
+Hermann-Treff-Weg 89
+Neusser Str. 14
+Olpener Str. 179
+Dingbängerweg 114
+Hermann-Treff-Weg 103
+Johann-Krane-Weg 66
+Hindenburgplatz 35
+Franz-Peter-Kürten-Weg 40
+Dammstr. 34
+Stettiner Str. 11
+Immelmannstr. 32
+Teutonenstr. 162
+Raesfeldstr. 156
+Görlitzer Str. 9
+Mindener Str. 176
+Maximilianstr. 154
+Papenbusch 56
+Angelmodder Weg 111
+Am Krausen Baum 103a
+Catharina-Müller-Str. 91
+Enschedeweg 146
+Merheimer Str. 72
+Soester Str. 10
+Gasselstiege 1
+Willingrott 151
+Gartenstr. 46
+Telemannstr. 166
+Gustav-Tweer-Weg 194a
+Sentmaringer Weg 186
+Neusser Str. 143
+Bohlweg 144
+Düesbergweg 200
+Hofstr. 169
+Steinkamp 147
+Elsa-Brändström-Weg 107
+Am Blütenhain 23
+Max-Winkelmann-Str. 108
+Dreilinden 38
+Von-Holte-Str. 154
+Sporckweg 144
+Starweg 28
+Hüfferstr. 36
+Josef-Suwelack-Weg 40
+Catharina-Müller-Str. 160
+Guntherstr. 60
+Frauenstr. 109
+Im Sonnentau 38
+Methweg 27
+Flaßkuhl 88
+Holunderweg 67
+Gescherweg 142
+Wollinstr. 118
+Christinastr. 32
+Angelmodder Weg 133
+Münsterstr. 180
+Zur Gräfte 28
+Kreuzstr. 191
+Bohlweg 154
+Am Oedingteich 100
+Handorfer Str. 47
+Carossastr. 75
+Kempener Str. 106
+Dreizehnerstr. 74
+Marderweg 175
+Schmeddingstr. 22
+Zülpicher Str. 160
+Marderweg 193
+Erikahof 172
+Am Burloh 151
+Augustastr. 113
+Schubertstr. 197
+Manfred-von-Richthofen-Str. 164
+Äußere Kanalstr. 160
+Deutz-Kalker Str. 8
+Marktstr. 158
+Maximilianstr. 55
+Kapellenstr. 186
+Am Ziegelofen 55
+Wolbecker Str. 57
+Maximilianstr. 72
+Catharina-Müller-Str. 125
+Wörthstr. 162
+Steinkamp 195
+Hahnenstr. 90
+Angelmodder Weg 129
+Immelmannstr. 98
+Marktstr. 163
+Kirchstr. 178
+Pötterhoek 75
+Birkenweg 48
+Idenbrockplatz 102
+Merheimer Str. 154
+Im Stemmen 133a
+Frauenstr. 113
+Röttgensweg 43
+Am Wigbold 6
+Kempener Str. 193
+Mecklenbecker Str. 174
+Werseblick 167
+Rektoratsweg 182
+Am Wigbold 45
+Sentmaringer Weg 163
+Horstmarer Landweg 140
+Sentmaringer Weg 61
+Schmeddingstr. 155
+Südstr. 52
+Flaßkuhl 86
+Zur Wiese 151
+Telgenweg 114
+Vorgebirgstr. 30
+Kurze Str. 56
+Wollinstr. 199
+Idenbrockplatz 132
+Teutonenstr. 2
+Dauvemühle 25
+An den Weiden 177
+Am Hörsterfriedhof 93
+An den Mühlen 91
+Herdingstr. 31
+Münsterstr. 22
+Am Brook 119
+Am Getterbach 127
+Gropiusstr. 40
+Langestr. 16
+Piusallee 46
+Holunderweg 119
+Johann-Krane-Weg 8
+Weseler Str. 52
+Piusstr. 68
+Jakobusstr. 1
+Dorotheenstr. 7
+Rennbahnstr. 131
+Zur Gräfte 57
+Kapellenstr. 128
+Am Blütenhain 156
+Möserweg 75
+Mariendorfer Str. 43
+Gustav-Tweer-Weg 15
+Dachsleite 198
+Innsbruckweg 16
+Havichhorster Mühle 30
+Albachtener Str. 189
+Cheruskerstr. 179
+Ölbergstr. 11
+Marktstr. 42
+Merheimer Str. 160
+Dreizehnerstr. 49
+Görlitzer Str. 176
+Holunderweg 53
+Von-Holte-Str. 128
+Beuelsweg 26
+Enschedeweg 196
+Klinkkampweg 158
+Josef-Suwelack-Weg 84
+Kriegerweg 106
+Dortmunder Str. 47
+Kochwiesenstr. 139
+Liboristr. 192
+Hoove 106
+Kurze Str. 200
+Wiedehagen 38
+Ossenkampstiege 5
+Carossastr. 101
+Alte Apotheke 8
+Westenkamp 95
+Uhuweg 28
+Weserstr. 162
+Gasselstiege 152
+Neusser Str. 185
+Overbergstr. 154
+Olpener Str. 11
+Steinkamp 118
+Langeworth 135
+Goebenstr. 72
+Kleiner Griechenmarkt 4
+Dahlienweg 88
+Westenkamp 43
+Von-Holte-Str. 35
+Hansaring 86
+Dodostr. 97
+Eifelstr. 197
+Studtstr. 24
+Angelstr. 31
+Zur Wiese 16
+Liboristr. 38
+Im Stemmen 6
+Dahlienweg 1
+Langeworth 172
+Ostmarkstr. 185
+Wiedehagen 73
+Drachterstr. 66
+Pankokstr. 8
+Kempener Str. 87
+Stolbergstr. 16
+Dauvemühle 145
+Jägerstr. A 154
+Elsa-Brändström-Weg 27
+Wiedehagen 27
+Gescherweg 147
+Fresnostr. 82
+Norbertstr. 58
+Kröver Str. 196
+Äußere Kanalstr. 139
+Werseblick 72
+Kurneystr. 180
+Dodostr. 189
+Dorotheenstr. 119
+Von-Holte-Str. 195
+Kochwiesenstr. 69
+Emdener Str. 141a
+An den Weiden 28
+Pötterhoek 68
+Ossenkampstiege 50a
+Heinrichstr. 70
+Telemannstr. 180
+Friesenring 16
+Friedrichstr. 157
+Am Brook 101
+Hensenstr. 90
+Paul-Engelhard-Weg 116
+Stettiner Str. 171
+Dorbaumstr. 162
+Franz-Peter-Kürten-Weg 92
+Sentmaringer Weg 73
+Rosenplatz 136
+Paul-Engelhard-Weg 130
+Erikahof 128
+Kröver Str. 184
+Kriegerweg 7
+Offenbergstr. 40
+Eifelstr. 40
+Rinkerodeweg 191
+Marientalstr. 157
+Möserweg 108
+Rinkerodeweg 77
+Ripenhorst 42
+Düsseldorfer Str. 198
+Wörthstr. 147
+An den Weiden 51
+Dreizehnerstr. 102
+Hillscheider Weg 195
+Hillscheider Weg 155
+Äußere Kanalstr. 163
+Erikahof 66
+Eulenbergstr. 14
+Josef-Suwelack-Weg 33
+Steinkamp 53
+Schubertstr. 13
+Neißestr. 2
+Albachtener Str. 198
+Dachsleite 66
+Salzmannstr. 100
+Eulenbergstr. 140
+Heinrichstr. 167
+Overbergstr. 71
+Kriegerweg 74
+Weseler Str. 101
+Gildenstr. 35
+Osthuesheide 172
+Olpener Str. 59
+Münsterstr. 29
+Sentmaringer Weg 41
+Albachtener Str. 74
+Ringelnatzstr. 14
+Horstmarer Landweg 79
+Dortmunder Str. 189
+Gottesweg 44
+Landoisstr. 69
+Am Pulverschuppen 186
+Heinrichstr. 98
+Am Berler Kamp 121a
+Herdingstr. 7
+Magdalenenstr. 108
+Schmittingheide 67
+Olpener Str. 189
+Augustastr. 118
+Widdeshover Weg 89
+Soester Str. 180
+Rottkamp 99
+Olpener Str. 173
+Enschedeweg 55
+Neusser Str. 189
+Von-der-Tinnen-Str. 66
+Wollinstr. 2
+Angelstr. 178a
+Dachsleite 159
+Marsweg 183
+An Lyskirchen 150
+Morthorststr. 101
+Hahnenstr. 36a
+Görlitzer Str. 18
+Bernhard-Poether-Str. 175
+Düsseldorfer Str. 25
+An den Weiden 106
+Methweg 6
+Westenkamp 153
+Gleueler Str. 113
+Gropiusstr. 177
+Beuelsweg 117
+Theodor-Heuss-Ring 80
+Werseblick 18
+Salzmannstr. 45
+Wolbecker Str. 177
+Innsbruckweg 131
+Dachsleite 148
+Rektoratsweg 51
+Fresnostr. 131
+Am Ziegelofen 145
+Münsterstr. 195
+Heroldstr. 169
+Erikahof 51
+Goldregenweg 33
+Am Krausen Baum 101
+Methweg 52
+Wormser Str. 21
+Johanniterstr. 126a
+Im Sonnentau 33
+Mindener Str. 50
+Cheruskerstr. 37
+Kempener Str. 181
+Baumberger Str. 63
+Hacklenburg 124
+Am Filk 180a
+Albachtener Str. 183
+Marderweg 101
+Piusallee 38
+Am Oedingteich 163
+Kempener Str. 17
+Dorbaumstr. 56
+Jakobusstr. 3
+Sporckweg 178
+Möserweg 174
+Rincklakeweg 67
+Scheibenstr. 25
+Zur Wiese 38
+Offerkämpe 127
+Kröver Str. 193
+Kurze Str. 172
+Oberschlesier Str. 166
+Görlitzer Str. 19
+Florentine-Eichler-Str. 131a
+Hacklenburg 50
+Schützenstr. 155
+Ölbergstr. 191
+Handorfer Str. 172
+Buldernweg 88
+Sternstr. 47
+Zur Gräfte 62
+Offenbergstr. 139
+Simon-Meister-Str. 20
+Geiststr. 45
+Grevener Str. 130
+Soetenkamp 58
+Paul-Engelhard-Weg 65
+Am Filk 146a
+Eulenbergstr. 187
+Im Haubenfeld 116
+Goebenstr. 71
+Kleiner Griechenmarkt 75
+Johann-Krane-Weg 7
+Merheimer Str. 162
+Eibenweg 162
+Soetenkamp 199
+Oscar-Wilde-Str. 110
+Pötterhoek 197
+Görlitzer Str. 199
+Rosenplatz 164
+Kreuzstr. 42
+Im Sonnentau 34a
+Görlitzer Str. 156
+Starweg 76
+Rinkerodeweg 151
+Rosenplatz 91
+Am Nubbenberg 129
+Horstmarer Landweg 12
+Mondstr. 131
+Meinertzstr. 176
+Böttcherstr. 177
+Am Getterbach 117
+Zülpicher Str. 199
+Flaßkuhl 8
+Rückertstr. 123
+Kröver Str. 110
+Kriegerweg 24
+Baumberger Str. 157
+Ringelnatzstr. 92
+Dorotheenstr. 31
+Am Ziegelofen 191
+Hofstr. 83
+Am Römerhof 39
+Schützenstr. 67
+Am Filk 66
+Kochwiesenstr. 173
+Liboristr. 178
+Kapellenstr. 107
+Schmeddingstr. 118
+Zur Wiese 166
+Deutz-Kalker Str. 37
+Starweg 164
+Manfred-von-Richthofen-Str. 19
+Manfred-von-Richthofen-Str. 157
+Dodostr. 110
+Rincklakeweg 21
+Friedrich-Ebert-Str. 192a
+Kösliner Str. 155
+Bernhard-Poether-Str. 36
+Am Blütenhain 182
+Rincklakeweg 141a
+Gremmendorfer Weg 101
+Dreilinden 25a
+Widdeshover Weg 43
+Stettiner Str. 14
+Soetenkamp 15
+Ostmarkstr. 24a
+Rektoratsweg 83
+Kochwiesenstr. 186a
+Florentine-Eichler-Str. 18
+Lammerbach 180
+Zur Gräfte 65
+Rektoratsweg 43
+Hirseweg 19
+Königsberger Str. 132
+Christinastr. 172
+Gartenstr. 83
+Düsseldorfer Str. 169
+Theodor-Heuss-Ring 109
+Franz-Peter-Kürten-Weg 100
+Zur Gräfte 106
+Goldregenweg 16
+Hindenburgplatz 197
+Im Sonnentau 89
+Christinastr. 44
+Weißenburgstr. 200
+Görlitzer Str. 147
+Zur Gräfte 32
+Havichhorster Mühle 96
+Kurneystr. 18
+Lassallestr. 11
+Albachtener Str. 115
+Am Nubbenberg 68
+Gasselstiege 103
+Frauenstr. 59a
+Piusallee 172
+Carossastr. 176
+Dorotheenstr. 50
+Skagerrakstr. 37
+Nauheimer Str. 78
+Immelmannstr. 12
+Dauvemühle 195
+Kreuzstr. 152
+Schmittingheide 76
+Ostlandstr. 167
+Jakobusstr. 159
+Memmertweg 134
+Dauvemühle 123
+Hermann-Treff-Weg 115
+Emdener Str. 17
+Berrischstr. 95
+Tondernstr. 72
+Werseblick 50
+An den Weiden 68
+Westenkamp 57
+Rottkamp 180
+Dachsleite 154
+Am Wigbold 124
+Weißenburgstr. 197
+Am Blütenhain 34
+Bielefelder Str. 43
+Dortmunder Str. 4
+Agrippastr. 143
+Hacklenburg 89
+Hüfferstr. 155
+Mariendorfer Str. 24
+Wormser Str. 123
+Grevener Str. 157
+Königsberger Str. 73
+Erikahof 9
+Liboristr. 93
+Mondstr. 119
+Kröver Str. 130
+Ostlandstr. 175
+Kerßenbrockstr. 165
+Ölbergstr. 162
+Olpener Str. 185
+Werseblick 109
+Manfred-von-Richthofen-Str. 52
+Innsbruckweg 182
+Im Sonnentau 143a
+Kreuzstr. 29
+Speestr. - 31
+Idenbrockplatz 177
+Wiedehagen 186
+Teutonenstr. 70
+Schützenstr. 161
+Mondstr. 59
+Alte Apotheke 66
+Sentmaringer Weg 124
+Gasselstiege 39
+Neißestr. 21
+Paul-Engelhard-Weg 125
+Morthorststr. 34
+Steinkamp 69
+Am Getterbach 168
+Emdener Str. 150
+Schützenstr. 70a
+Angelstr. 55
+Arnheimweg 106
+Starweg 75
+Wiedehagen 81
+Zur Gräfte 187a
